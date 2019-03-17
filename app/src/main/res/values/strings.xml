@@ -1,3 +1,12 @@
 <resources>
+    <!--Splash Screen Strings-->
     <string name="app_name">Fish Seeker</string>
+    <string name="splash_skip_button">skip</string>
+    <string name="splash_screen_inf0">Game by Amrit</string>
+
+    <!--Main menu strings-->
+
+
+    <!--Options Menu strings-->
+
 </resources>
